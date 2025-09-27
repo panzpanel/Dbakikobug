@@ -1,5 +1,7 @@
 {
   "resellers": [],
-  "admins": [],
+  "admins": [
+    "1234"
+  ],
   "assistenOwners": []
 }
