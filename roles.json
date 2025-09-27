@@ -1,12 +1,6 @@
 {
-  "resellers": [
-    "7059242027"
-  ],
-  "admins": [
-    "12345"
-  ],
+  "resellers": [],
+  "admins": [],
   "assistenOwners": [],
-  "team": [
-    "123456"
-  ]
+  "team": []
 }
